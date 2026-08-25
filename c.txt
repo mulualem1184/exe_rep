@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 c file from frontend. extrac change is mande
+=======
+c file from frontend.Okay proceed the main part
+>>>>>>> ebea836eea84a75338ea48eeb386122420f196d5
